@@ -1,10 +1,19 @@
-## Welcome to GitHub Pages
+## Michelle Moss Portfolio
 
-You can use the [editor on GitHub](https://github.com/michem18/Michelle_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can see some of the projects I have been working on, and indirectly, my interests and some of my experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Project 1 - Census in jail: characterization of People deprieved of liberty
 
-### Markdown
+This is a very special project for me because I have been part of all of its stages:
+
+#### 1. Preparing the recollection of data
+My university in coordination with the Program in charge of Metropolitan jails from Uruguay gave alumni the oportunity to be part of the collecting of social and educational information about people deprieved of their liberty.
+
+Alumni who was on board of this program (including me), first had to study jail conditions, legal system in Uruguay, theory about education, crime and family in order to give shape to the census and have a clear picture of what information do we needed and how to collect it.
+
+#### 2. Collecting the data
+
+We were also in charge of asking all the questions to the people deprieved of their liberty in jail and we were able to cense all of the jail population (561 people). 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
